@@ -8,6 +8,7 @@
 
 # testing
 /coverage
+/.vscode
 
 # next.js
 /.next/
@@ -26,6 +27,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.env
 .env*.local
 
 # vercel
@@ -34,5 +36,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-.env
-.vscode
+
